@@ -1,5 +1,5 @@
 # LoRA_Dr.DeepChest (mini_22Analysis) 
-LoRA를 이용한 흉부 X-ray 병명 진단 AI  Dr.DeepChest 개발 프로젝트 (4주)
+LoRA를 이용한 흉부 X-ray 병명 진단 AI  Dr.DeepChest 개발 프로젝트
 </br>
 
 
@@ -59,7 +59,7 @@ LoRA를 이용한 흉부 X-ray 병명 진단 AI  Dr.DeepChest 개발 프로젝�
 
 ![11](https://github.com/user-attachments/assets/cdb9cfc0-3dc9-4c3a-9982-f5879503ba7d)
 
-- LoRA-Alpaca
+- **LoRA-Alpaca**
   - Alpaca 모델을 LoRA (Low-Rank Adaptation) 기법을 사용하여 경량화하고 튜닝한 모델
   - [Alpaca 모델](https://github.com/tatsu-lab/stanford_alpaca)은 Meta의 LLaMA (Large Language Model Meta AI)를 기반으로, 스탠포드 대학 연구팀이 ChatGPT의 성능을 따라잡기 위해 설계한 경량화된 언어 모델
 
