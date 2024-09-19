@@ -41,7 +41,7 @@ LoRA는 MultModal이 아닌 LLM에 특화된 Fine-Tuning방식
 2) LLM만 LoRA로 Fine-Tuning해야하는 문제
 3) 학습시킬 Image를 LLM에 맞는 형태로 전처리해 임베딩해야하는 문제 존재
 
-[해결 방법]
+**[해결 방법]** <br/>
 pretrained 된 vision model로 이미지를 임베딩하여 prompt에 같이 전달 (문제1 & 문제 3 해결) <br/>
 
 → 학습에 필요한 파라미터 수를 크게 줄이고,  LLM부분은 LLama 모델을 사용하여 구현 (문제2 해결) <br/> 
